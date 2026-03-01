@@ -43,7 +43,7 @@
       "id": 6,
       "category": "feature",
       "description": "关于页面",
-      "passes": false,
+      "passes": true,
       "priority": "medium"
     },
     {
