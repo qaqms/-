@@ -19,6 +19,7 @@ nav:
 
 menu:
   Home: / || fas fa-home
+  Link: /link/ || fas fa-link
   About: /about/ || fas fa-heart
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music

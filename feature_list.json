@@ -50,8 +50,9 @@
       "id": 7,
       "category": "feature",
       "description": "友链页面",
-      "passes": false,
-      "priority": "medium"
+      "passes": true,
+      "priority": "medium",
+      "completed_date": "2026-03-01"
     },
     {
       "id": 8,
