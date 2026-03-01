@@ -655,7 +655,7 @@ remark42:
 # Artalk
 # https://artalk.js.org/guide/frontend/config.html
 artalk:
-  server: http://bksjk.qaqms.xyz:23366
+  server: http://bksjk.qaqms.xyz:8080
   site: 二次元博客
   # Use Artalk visitor count as the page view count
   visitor: false
