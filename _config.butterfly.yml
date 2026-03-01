@@ -660,6 +660,8 @@ artalk:
   # Use Artalk visitor count as the page view count
   visitor: false
   option:
+    server: http://bksjk.qaqms.xyz:8080
+    api: http://bksjk.qaqms.xyz:8080
 
 # --------------------------------------
 # Chat Services
