@@ -589,7 +589,7 @@ valine:
 # Waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: # 部署 Waline 后填入，例如: https://your-app.vercel.app
+  serverURL: https://waline-demo.vercel.app
   bg:
   # Use Waline pageview count as the page view count
   pageview: false
