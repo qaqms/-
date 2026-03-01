@@ -21,7 +21,7 @@
 ## 技术栈
 - 框架: Hexo 7.3.0
 - 主题: Butterfly 5.5.4
-- 评论: Waline
+- 评论: Artalk (自建 Linux 服务器)
 
 ## 下一步
 开发友链页面
