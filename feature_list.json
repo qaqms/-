@@ -29,7 +29,7 @@
       "id": 4,
       "category": "feature",
       "description": "二次元风格主题美化（背景图、头像、图标）",
-      "passes": false,
+      "passes": true,
       "priority": "high"
     },
     {
