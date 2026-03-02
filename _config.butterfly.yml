@@ -656,6 +656,7 @@ remark42:
   host: https://grbk.qaqms.xyz
   siteId: blog
   option:
+    locale: zh-CN
 
 # Artalk
 # https://artalk.js.org/guide/frontend/config.html
