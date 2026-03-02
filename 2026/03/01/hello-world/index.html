@@ -201,9 +201,9 @@
     document.head.appendChild(script)
   }
 
-  const addRemark42 = () => loadScript('http://80.240.24.254:8081/web/embed.js')
+  const addRemark42 = () => loadScript('https://grbk.qaqms.xyz/web/embed.js')
 
-  const getCount = () => document.querySelector('.remark42__counter') && loadScript('http://80.240.24.254:8081/web/count.js')
+  const getCount = () => document.querySelector('.remark42__counter') && loadScript('https://grbk.qaqms.xyz/web/count.js')
 
   const destroyRemark42 = () => window.remark42Instance && window.remark42Instance.destroy()
 
@@ -228,7 +228,7 @@
     }
 
     window.remark_config = {
-      host: 'http://80.240.24.254:8081',
+      host: 'https://grbk.qaqms.xyz',
       site_id: 'blog',
       theme: document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light',
       ...options,
