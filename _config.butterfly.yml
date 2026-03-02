@@ -653,7 +653,7 @@ giscus:
 # Remark42
 # https://remark42.com/docs/configuration/frontend/
 remark42:
-  host: http://80.240.24.254:8081
+  host: https://grbk.qaqms.xyz
   siteId: blog
   option:
 
