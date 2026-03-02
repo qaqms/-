@@ -3,7 +3,7 @@ title: 友链
 date: 2026-03-01
 comments: false
 description: 交换友链
-top_img: https://api.duiyi.online/moe/link.jpg
+top_img: /img/link.jpg
 ---
 
 ## 交换友链
@@ -23,10 +23,10 @@ top_img: https://api.duiyi.online/moe/link.jpg
   link_list:
     - name: 示例博客
       link: https://example.com
-      avatar: https://api.duiyi.online/moe/avatar.png
+      avatar: /img/avatar.png
       descr: 这是一个示例博客
     - name: Butterfly
       link: https://butterfly.js.org
-      avatar: https://api.duiyi.online/moe/avatar.png
+      avatar: /img/avatar.png
       descr: Hexo 主题
 {% endflink %}

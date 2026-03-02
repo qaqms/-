@@ -55,10 +55,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: https://api.duiyi.online/moe/icon.png
+favicon: /img/icon.png
 
 avatar:
-  img: https://api.duiyi.online/moe/avatar.png
+  img: /img/avatar.png
   effect: true
 
 # Disable all banner images
@@ -68,10 +68,10 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img: https://api.duiyi.online/moe/index.jpg
+index_img: /img/index.jpg
 
 # The banner image of archive page
-archive_img: https://api.duiyi.online/moe/archive.jpg
+archive_img: /img/archive.jpg
 
 # Note: tag page, not tags page
 tag_img:
@@ -96,9 +96,9 @@ footer_img: false
 # Can set it to color, image URL or an array containing colors and/or image URLs
 # If an array is provided, a random background will be selected from the array on each load
 background:
-  - https://api.duiyi.online/moe/bg1.jpg
-  - https://api.duiyi.online/moe/bg2.jpg
-  - https://api.duiyi.online/moe/bg3.jpg
+  - https://api.fuchenboke.cn/api/dongman.php
+  - https://api.fuchenboke.cn/api/dongman.php
+  - https://api.fuchenboke.cn/api/dongman.php
 
 cover:
   # Disable the cover or not
@@ -107,9 +107,7 @@ cover:
   archives_enable: true
 # When cover is not set, the default cover is displayed
 default_cover:
-  - https://api.duiyi.online/moe/cover1.jpg
-  - https://api.duiyi.online/moe/cover2.jpg
-  - https://api.duiyi.online/moe/cover3.jpg
+  - https://api.fuchenboke.cn/api/dongman.php
 
 # Replace Broken Images
 error_img:
