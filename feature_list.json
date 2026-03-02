@@ -35,7 +35,7 @@
       {
       "id": 5,
       "category": "feature",
-      "description": "Giscus 评论系统部署与配置（GitHub Discussions）",
+      "description": "Remark42 评论系统部署与配置（邮箱注册验证）",
       "passes": true,
       "priority": "high"
     },

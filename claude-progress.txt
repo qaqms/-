@@ -7,7 +7,7 @@
 2. ✅ 博客主题美化（背景图、头像等）
 3. ✅ 友链页面
 4. ✅ GitHub Actions 自动部署
-5. ✅ Giscus 评论系统（GitHub Discussions）
+5. ✅ Remark42 评论系统（邮箱注册验证）
 
 ## 待开发功能
 - ⬜ 首页轮播图
@@ -16,8 +16,8 @@
 ## 技术栈
 - 框架: Hexo 7.3.0
 - 主题: Butterfly 5.5.4
-- 评论: Giscus (GitHub Discussions)
+- 评论: Remark42 (自建 Docker)
 - 博客地址: https://qaqms.github.io/-/
 
 ## 下一步
-部署测试 Giscus 评论系统
+部署测试 Remark42 评论系统
