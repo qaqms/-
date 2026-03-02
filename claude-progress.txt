@@ -4,24 +4,20 @@
 
 ## 已完成功能
 1. ✅ Hexo + Butterfly 主题基础框架
-2. ✅ Waline 评论系统（Vercel 部署）
-3. ✅ GitHub Actions 自动部署
-4. ✅ 二次元风格主题美化
-5. ✅ 示例博客文章
-6. ✅ 关于页面
-7. ✅ 导航菜单配置
+2. ✅ 博客主题美化（背景图、头像等）
+3. ✅ 友链页面
+4. ✅ GitHub Actions 自动部署
+5. ✅ Giscus 评论系统（GitHub Discussions）
 
 ## 待开发功能
 - ⬜ 首页轮播图
 - ⬜ SEO 优化
 
-## 已完成
-- ✅ 友链页面 (2026-03-01)
-
 ## 技术栈
 - 框架: Hexo 7.3.0
 - 主题: Butterfly 5.5.4
-- 评论: Artalk (自建 Linux 服务器)
+- 评论: Giscus (GitHub Discussions)
+- 博客地址: https://qaqms.github.io/-/
 
 ## 下一步
-开发友链页面
+部署测试 Giscus 评论系统

@@ -1,7 +1,7 @@
 {
   "project": "二次元博客",
   "version": "1.0.0",
-  "last_updated": "2026-03-01",
+  "last_updated": "2026-03-02",
   "status": "in_progress",
   "features": [
     {
@@ -14,73 +14,58 @@
     {
       "id": 2,
       "category": "feature",
-      "description": "Waline 评论系统部署与配置",
+      "description": "博客主题美化（背景图、头像等）",
       "passes": true,
       "priority": "high"
     },
     {
       "id": 3,
       "category": "feature",
-      "description": "GitHub Actions 自动部署到 Pages",
+      "description": "友链页面",
       "passes": true,
       "priority": "high"
     },
     {
       "id": 4,
       "category": "feature",
-      "description": "二次元风格主题美化（背景图、头像、图标）",
+      "description": "GitHub Actions 自动部署到 Pages",
+      "passes": true,
+      "priority": "high"
+    },
+      {
+      "id": 5,
+      "category": "feature",
+      "description": "Giscus 评论系统部署与配置（GitHub Discussions）",
       "passes": true,
       "priority": "high"
     },
     {
-      "id": 5,
+      "id": 6,
       "category": "feature",
       "description": "首页轮播图/大图展示",
       "passes": false,
       "priority": "medium"
     },
     {
-      "id": 6,
-      "category": "feature",
-      "description": "关于页面",
-      "passes": true,
-      "priority": "medium"
-    },
-    {
       "id": 7,
-      "category": "feature",
-      "description": "友链页面",
-      "passes": true,
-      "priority": "medium",
-      "completed_date": "2026-03-01"
-    },
-    {
-      "id": 8,
-      "category": "feature",
-      "description": "文章目录导航",
-      "passes": false,
-      "priority": "low"
-    },
-    {
-      "id": 9,
-      "category": "feature",
-      "description": "音乐播放器",
-      "passes": false,
-      "priority": "low"
-    },
-    {
-      "id": 10,
       "category": "feature",
       "description": "网站搜索引擎优化 SEO",
       "passes": false,
       "priority": "medium"
     },
     {
-      "id": 11,
-      "category": "content",
-      "description": "示例博客文章（2-3篇）",
-      "passes": true,
-      "priority": "high"
+      "id": 9,
+      "category": "feature",
+      "description": "文章目录导航",
+      "passes": false,
+      "priority": "low"
+    },
+    {
+      "id": 10,
+      "category": "feature",
+      "description": "音乐播放器",
+      "passes": false,
+      "priority": "low"
     }
   ]
 }
