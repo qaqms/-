@@ -656,7 +656,7 @@ remark42:
   host: https://grbk.qaqms.xyz
   siteId: blog
   option:
-    locale: zh-CN
+    locale: zh
     url: https://grbk.qaqms.xyz
 
 # Artalk
