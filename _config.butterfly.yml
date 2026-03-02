@@ -55,10 +55,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/icon.png
+favicon: /img/icon.jpg
 
 avatar:
-  img: /img/avatar.png
+  img: /img/avatar.jpg
   effect: true
 
 # Disable all banner images
@@ -71,7 +71,7 @@ default_top_img:
 index_img: /img/index.jpg
 
 # The banner image of archive page
-archive_img: /img/archive.jpg
+archive_img: /img/index.jpg
 
 # Note: tag page, not tags page
 tag_img:
