@@ -98,7 +98,7 @@ footer_img: false
 background:
   - /img/bg1.jpg
   - /img/bg2.jpg
-  - /img/bg3.png
+  - /img/link.png
 
 cover:
   # Disable the cover or not
