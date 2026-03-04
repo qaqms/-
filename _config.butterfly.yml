@@ -59,7 +59,7 @@ favicon: /img/icon.jpg
 
 avatar:
   img: /img/avatar.png
-  effect: false
+  effect: true
 
 # Disable all banner images
 disable_top_img: false
@@ -1072,7 +1072,7 @@ css_prefix: true
 # Insert the code to head (before '</head>' tag) and the bottom (before '</body>' tag)
 inject:
   head:
-    # - <link rel="stylesheet" href="/xxx.css">
+    - <style>.avatar-img img:hover{-webkit-animation:spin 3s linear infinite;animation:spin 3s linear infinite}@-webkit-keyframes spin{100%{-webkit-transform:rotate(360deg)}}@keyframes spin{100%{transform:rotate(360deg)}}</style>
   bottom:
     # - <script src="xxxx"></script>
 
