@@ -1076,9 +1076,9 @@ inject:
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lrplrplrp/bkyl2d@main/waifu.css">
     - <script src="https://cdn.jsdelivr.net/gh/lrplrplrp/bkyl2d@main/live2d.min.js"></script>
+  bottom:
     - <script src="https://cdn.jsdelivr.net/gh/lrplrplrp/bkyl2d@main/waifu-tips.js"></script>
     - <script>if(screen.width>=768){initWidget({waifuPath:"https://cdn.jsdelivr.net/gh/lrplrplrp/bkyl2d@main/waifu-tips.json",cdnPath:"https://cdn.jsdelivr.net/gh/fghrsh/live2d_api/"})}</script>
-  bottom:
 
 # CDN Settings
 # Don't modify the following settings unless you know how they work
