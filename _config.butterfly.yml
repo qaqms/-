@@ -1074,7 +1074,7 @@ inject:
   head:
     - <style>.avatar-img img:hover{-webkit-animation:spin 0.5s linear infinite!important;animation:spin 0.5s linear infinite!important}@-webkit-keyframes spin{100%{-webkit-transform:rotate(360deg)}}@keyframes spin{100%{transform:rotate(360deg)}}</style>
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
-    - <script src="https://cdn.jsdelivr.net/gh/lrplrplrp/bkyl2d@main/waifu.css"></script>
+    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lrplrplrp/bkyl2d@main/waifu.css">
     - <script src="https://cdn.jsdelivr.net/gh/lrplrplrp/bkyl2d@main/live2d.min.js"></script>
     - <script src="https://cdn.jsdelivr.net/gh/lrplrplrp/bkyl2d@main/waifu-tips.js"></script>
     - <script>if(screen.width>=768){initWidget({waifuPath:"https://cdn.jsdelivr.net/gh/lrplrplrp/bkyl2d@main/waifu-tips.json",cdnPath:"https://cdn.jsdelivr.net/gh/fghrsh/live2d_api/"})}</script>
