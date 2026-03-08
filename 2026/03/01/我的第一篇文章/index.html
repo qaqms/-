@@ -161,37 +161,7 @@
   isHighlightShrink: false,
   isToc: true,
   pageType: 'post'
-}</script><style>.avatar-img img:hover{-webkit-animation:spin 0.5s linear infinite!important;animation:spin 0.5s linear infinite!important}@-webkit-keyframes spin{100%{-webkit-transform:rotate(360deg)}}@keyframes spin{100%{transform:rotate(360deg)}}</style><style>:root{--preloader-bg:#e0e0e0!important}</style><meta name="generator" content="Hexo 7.3.0"></head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">加载中...</div></div></div><script>(()=>{
-  const $loadingBox = document.getElementById('loading-box')
-  const $body = document.body
-  const preloader = {
-    endLoading: () => {
-      if ($loadingBox.classList.contains('loaded')) return
-      $body.style.overflow = ''
-      $loadingBox.classList.add('loaded')
-    },
-    initLoading: () => {
-      $body.style.overflow = 'hidden'
-      $loadingBox.classList.remove('loaded')
-    }
-  }
-
-  preloader.initLoading()
-
-  if (document.readyState === 'complete') {
-    preloader.endLoading()
-  } else {
-    window.addEventListener('load', preloader.endLoading)
-    document.addEventListener('DOMContentLoaded', preloader.endLoading)
-    // Add timeout protection: force end after 7 seconds
-    setTimeout(preloader.endLoading, 7000)
-  }
-
-  if (false) {
-    btf.addGlobalFn('pjaxSend', preloader.initLoading, 'preloader_init')
-    btf.addGlobalFn('pjaxComplete', preloader.endLoading, 'preloader_end')
-  }
-})()</script><div class="bg-animation" id="web_bg"></div><script>(() => {
+}</script><style>.avatar-img img:hover{-webkit-animation:spin 0.5s linear infinite!important;animation:spin 0.5s linear infinite!important}@-webkit-keyframes spin{100%{-webkit-transform:rotate(360deg)}}@keyframes spin{100%{transform:rotate(360deg)}}</style><style>#loading-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg,#ff9a9e 0%,#fecfef 50%,#ff9a9e 100%);display:flex;flex-direction:column;justify-content:center;align-items:center;z-index:99999;transition:opacity .6s ease-out}#loading-overlay.hidden{opacity:0;pointer-events:none}.loader{width:50px;height:50px;border:4px solid rgba(255,255,255,.3);border-top-color:#fff;border-radius:50%;animation:spin 1s linear infinite}.loading-text{margin-top:20px;color:#fff;font-size:18px;font-weight:500;letter-spacing:2px}</style><script>window.addEventListener("load",function(){setTimeout(function(){document.getElementById("loading-overlay").classList.add("hidden")},500)})</script><meta name="generator" content="Hexo 7.3.0"></head><body><div class="bg-animation" id="web_bg"></div><script>(() => {
   const arr = ["background-image: url(/img/bg1.jpg);","background-image: url(/img/bg2.jpg);","background-image: url(/img/link.png);"]
   const webBgDiv = document.getElementById('web_bg')
 
