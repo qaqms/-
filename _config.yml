@@ -108,3 +108,15 @@ deploy:
   repo: https://github.com/qaqms/-
   branch: gh-pages
   cname: qaqms.xyz
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
+  rel: true
+
+# Robots.txt
+robotstxt:
+  useragent: "*"
+  allow:
+    - /
+  sitemap: https://qaqms.xyz/sitemap.xml
